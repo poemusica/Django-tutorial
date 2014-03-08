@@ -1,0 +1,4 @@
+hackbrightathon
+===============
+
+Hackbright Django Hackathon
